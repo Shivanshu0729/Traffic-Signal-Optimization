@@ -1,0 +1,3822 @@
+[
+  {
+    "timestamp": "2025-04-23 20:21:55.667201",
+    "vehicle_speed": 50,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:21:58.665446",
+    "vehicle_speed": 36,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 49,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:01.668819",
+    "vehicle_speed": 44,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:04.672628",
+    "vehicle_speed": 40,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:07.670009",
+    "vehicle_speed": 40,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:10.671902",
+    "vehicle_speed": 36,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:13.672618",
+    "vehicle_speed": 46,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:16.658858",
+    "vehicle_speed": 45,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:19.672175",
+    "vehicle_speed": 22,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:22.816594",
+    "vehicle_speed": 39,
+    "traffic_density": 22,
+    "congestion_level": "Low",
+    "optimized_signal_time": 45,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:25.818708",
+    "vehicle_speed": 43,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:28.829029",
+    "vehicle_speed": 41,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 54,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:31.817453",
+    "vehicle_speed": 28,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:34.815732",
+    "vehicle_speed": 40,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 51,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:37.825837",
+    "vehicle_speed": 41,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 53,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:40.830087",
+    "vehicle_speed": 58,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 49,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:43.817540",
+    "vehicle_speed": 46,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 75,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:46.815099",
+    "vehicle_speed": 24,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:49.825711",
+    "vehicle_speed": 29,
+    "traffic_density": 22,
+    "congestion_level": "Low",
+    "optimized_signal_time": 47,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:52.821263",
+    "vehicle_speed": 51,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 79,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:55.826268",
+    "vehicle_speed": 50,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:22:58.816652",
+    "vehicle_speed": 42,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:23:01.825881",
+    "vehicle_speed": 41,
+    "traffic_density": 20,
+    "congestion_level": "Low",
+    "optimized_signal_time": 42,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:23:04.818376",
+    "vehicle_speed": 41,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:23:07.823112",
+    "vehicle_speed": 37,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:23:10.819962",
+    "vehicle_speed": 29,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:23:13.820319",
+    "vehicle_speed": 36,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 48,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:23:16.820278",
+    "vehicle_speed": 39,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:23:37.814973",
+    "vehicle_speed": 47,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:24:37.827021",
+    "vehicle_speed": 48,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:25:37.833938",
+    "vehicle_speed": 40,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:26:37.815798",
+    "vehicle_speed": 45,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:26:55.009157",
+    "vehicle_speed": 41,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:26:55.658645",
+    "vehicle_speed": 61,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:26:58.665890",
+    "vehicle_speed": 29,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:01.683887",
+    "vehicle_speed": 13,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 67,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:04.815389",
+    "vehicle_speed": 44,
+    "traffic_density": 22,
+    "congestion_level": "Low",
+    "optimized_signal_time": 44,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:07.816004",
+    "vehicle_speed": 49,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 69,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:10.822091",
+    "vehicle_speed": 31,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:13.819515",
+    "vehicle_speed": 46,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:16.815671",
+    "vehicle_speed": 30,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 49,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:19.822337",
+    "vehicle_speed": 28,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:22.820981",
+    "vehicle_speed": 41,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:25.819886",
+    "vehicle_speed": 28,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:28.826811",
+    "vehicle_speed": 48,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:31.817131",
+    "vehicle_speed": 53,
+    "traffic_density": 38,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 76,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:34.816124",
+    "vehicle_speed": 43,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:37.816105",
+    "vehicle_speed": 29,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:40.824534",
+    "vehicle_speed": 31,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 75,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:43.815733",
+    "vehicle_speed": 28,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 59,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:46.826677",
+    "vehicle_speed": 47,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:49.816426",
+    "vehicle_speed": 30,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:52.820517",
+    "vehicle_speed": 36,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:55.815508",
+    "vehicle_speed": 25,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:27:58.830159",
+    "vehicle_speed": 24,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:28:01.828575",
+    "vehicle_speed": 47,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 77,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:28:37.818305",
+    "vehicle_speed": 47,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 44,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:29:37.821167",
+    "vehicle_speed": 40,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 73,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:30:37.820420",
+    "vehicle_speed": 42,
+    "traffic_density": 20,
+    "congestion_level": "Low",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:31:37.821101",
+    "vehicle_speed": 45,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:32:37.824165",
+    "vehicle_speed": 38,
+    "traffic_density": 20,
+    "congestion_level": "Low",
+    "optimized_signal_time": 40,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:33:37.819211",
+    "vehicle_speed": 42,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 55,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:34:37.826728",
+    "vehicle_speed": 59,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:35:37.824284",
+    "vehicle_speed": 28,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:36:37.823400",
+    "vehicle_speed": 46,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 67,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:37:37.825491",
+    "vehicle_speed": 23,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 46,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:38:37.831269",
+    "vehicle_speed": 36,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 55,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:39:37.825897",
+    "vehicle_speed": 28,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:40:37.815156",
+    "vehicle_speed": 59,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 59,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:41:37.818316",
+    "vehicle_speed": 38,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:42:37.817776",
+    "vehicle_speed": 43,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 47,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:43:37.820673",
+    "vehicle_speed": 51,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 59,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:44:37.820568",
+    "vehicle_speed": 44,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:45:37.826530",
+    "vehicle_speed": 30,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:46:37.826685",
+    "vehicle_speed": 29,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:47:37.817174",
+    "vehicle_speed": 43,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 75,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:48:37.815013",
+    "vehicle_speed": 48,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:49:37.823691",
+    "vehicle_speed": 34,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:50:37.826795",
+    "vehicle_speed": 26,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:51:37.824704",
+    "vehicle_speed": 56,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 51,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:52:37.827376",
+    "vehicle_speed": 46,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:53:37.826378",
+    "vehicle_speed": 48,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:54:37.823843",
+    "vehicle_speed": 28,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:55:37.817388",
+    "vehicle_speed": 33,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:56:37.817891",
+    "vehicle_speed": 34,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:57:37.814700",
+    "vehicle_speed": 32,
+    "traffic_density": 21,
+    "congestion_level": "Low",
+    "optimized_signal_time": 48,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:58:37.814545",
+    "vehicle_speed": 31,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 20:59:37.822435",
+    "vehicle_speed": 20,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:14.470287",
+    "vehicle_speed": 11,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 75,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:17.005267",
+    "vehicle_speed": 40,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:19.994876",
+    "vehicle_speed": 45,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 76,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:23.003370",
+    "vehicle_speed": 34,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 83,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:26.006284",
+    "vehicle_speed": 50,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:29.003891",
+    "vehicle_speed": 51,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:32.004277",
+    "vehicle_speed": 29,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:34.993224",
+    "vehicle_speed": 37,
+    "traffic_density": 39,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 80,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:37.999006",
+    "vehicle_speed": 53,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:41.007041",
+    "vehicle_speed": 17,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 75,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:44.164451",
+    "vehicle_speed": 38,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:47.163559",
+    "vehicle_speed": 31,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:50.162106",
+    "vehicle_speed": 35,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 43,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:53.163248",
+    "vehicle_speed": 58,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 67,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:56.152894",
+    "vehicle_speed": 46,
+    "traffic_density": 22,
+    "congestion_level": "Low",
+    "optimized_signal_time": 46,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:31:59.157223",
+    "vehicle_speed": 44,
+    "traffic_density": 19,
+    "congestion_level": "Low",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:02.163604",
+    "vehicle_speed": 31,
+    "traffic_density": 22,
+    "congestion_level": "Low",
+    "optimized_signal_time": 46,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:05.158985",
+    "vehicle_speed": 38,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 79,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:08.158731",
+    "vehicle_speed": 48,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 50,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:11.162453",
+    "vehicle_speed": 34,
+    "traffic_density": 45,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:14.152179",
+    "vehicle_speed": 18,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 46,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:17.156606",
+    "vehicle_speed": 34,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:20.160907",
+    "vehicle_speed": 51,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:23.155937",
+    "vehicle_speed": 39,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:26.160349",
+    "vehicle_speed": 37,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 55,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:29.150605",
+    "vehicle_speed": 49,
+    "traffic_density": 39,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 78,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:32.154599",
+    "vehicle_speed": 40,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:35.158043",
+    "vehicle_speed": 39,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 80,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:38.164165",
+    "vehicle_speed": 33,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 86,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:32:41.151745",
+    "vehicle_speed": 30,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 79,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:33:35.160681",
+    "vehicle_speed": 50,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 55,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:34:35.158886",
+    "vehicle_speed": 32,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:35:35.161693",
+    "vehicle_speed": 31,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 71,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:36:35.156511",
+    "vehicle_speed": 34,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 22:36:41.405211",
+    "vehicle_speed": 48,
+    "traffic_density": 43,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 86,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:03.872394",
+    "vehicle_speed": 37,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 59,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:06.978349",
+    "vehicle_speed": 34,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 71,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:09.879224",
+    "vehicle_speed": 50,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:12.876084",
+    "vehicle_speed": 45,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 75,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:15.876776",
+    "vehicle_speed": 30,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:18.875607",
+    "vehicle_speed": 39,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:21.873038",
+    "vehicle_speed": 45,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 83,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:24.870214",
+    "vehicle_speed": 30,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:27.881831",
+    "vehicle_speed": 30,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:30.873754",
+    "vehicle_speed": 43,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:33.878357",
+    "vehicle_speed": 53,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 54,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:36.883073",
+    "vehicle_speed": 36,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:40.154081",
+    "vehicle_speed": 51,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 77,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:43.163986",
+    "vehicle_speed": 41,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 54,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:46.155044",
+    "vehicle_speed": 26,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 82,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:49.166002",
+    "vehicle_speed": 66,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:51.887717",
+    "vehicle_speed": 33,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:54.882949",
+    "vehicle_speed": 28,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:29:57.882707",
+    "vehicle_speed": 49,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:00.871528",
+    "vehicle_speed": 50,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 48,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:03.873895",
+    "vehicle_speed": 36,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:06.886851",
+    "vehicle_speed": 39,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 73,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:09.877158",
+    "vehicle_speed": 47,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:12.870172",
+    "vehicle_speed": 42,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:15.873397",
+    "vehicle_speed": 35,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:18.882514",
+    "vehicle_speed": 41,
+    "traffic_density": 39,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 81,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:21.881212",
+    "vehicle_speed": 35,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:24.873094",
+    "vehicle_speed": 52,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:28.156365",
+    "vehicle_speed": 31,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 54,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:31.158004",
+    "vehicle_speed": 29,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:34.158098",
+    "vehicle_speed": 48,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 51,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:37.156753",
+    "vehicle_speed": 36,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:40.157569",
+    "vehicle_speed": 52,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:43.277492",
+    "vehicle_speed": 59,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:46.157306",
+    "vehicle_speed": 19,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:49.158441",
+    "vehicle_speed": 45,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 54,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:52.162061",
+    "vehicle_speed": 25,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:55.157170",
+    "vehicle_speed": 28,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 53,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:30:58.153851",
+    "vehicle_speed": 36,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:01.153672",
+    "vehicle_speed": 27,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:04.157701",
+    "vehicle_speed": 40,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:07.160950",
+    "vehicle_speed": 37,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 50,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:10.157284",
+    "vehicle_speed": 33,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 71,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:13.156120",
+    "vehicle_speed": 42,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:16.151842",
+    "vehicle_speed": 41,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 50,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:18.881445",
+    "vehicle_speed": 61,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 75,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:21.882836",
+    "vehicle_speed": 19,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 67,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:24.869306",
+    "vehicle_speed": 42,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:28.159484",
+    "vehicle_speed": 51,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 73,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:31.155614",
+    "vehicle_speed": 50,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:34.156081",
+    "vehicle_speed": 52,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:37.150974",
+    "vehicle_speed": 33,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:40.153592",
+    "vehicle_speed": 42,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:43.153414",
+    "vehicle_speed": 36,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:46.160925",
+    "vehicle_speed": 34,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 51,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:49.152742",
+    "vehicle_speed": 29,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:52.158723",
+    "vehicle_speed": 47,
+    "traffic_density": 44,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 89,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:55.158198",
+    "vehicle_speed": 66,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:31:58.156806",
+    "vehicle_speed": 50,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:01.155672",
+    "vehicle_speed": 37,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 55,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:04.162744",
+    "vehicle_speed": 37,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:07.155135",
+    "vehicle_speed": 54,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 53,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:10.155150",
+    "vehicle_speed": 40,
+    "traffic_density": 22,
+    "congestion_level": "Low",
+    "optimized_signal_time": 44,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:13.158809",
+    "vehicle_speed": 47,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 20,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:16.149251",
+    "vehicle_speed": 42,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 76,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:19.152856",
+    "vehicle_speed": 43,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 59,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:22.162756",
+    "vehicle_speed": 21,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:25.158384",
+    "vehicle_speed": 22,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:32:35.153441",
+    "vehicle_speed": 58,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:33:35.163143",
+    "vehicle_speed": 27,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:34:35.152783",
+    "vehicle_speed": 38,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:35:35.154527",
+    "vehicle_speed": 29,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 50,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:36:35.157830",
+    "vehicle_speed": 42,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 69,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:37:35.156977",
+    "vehicle_speed": 33,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:38:35.153451",
+    "vehicle_speed": 39,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:39:35.155018",
+    "vehicle_speed": 33,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 82,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:40:35.163992",
+    "vehicle_speed": 50,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:41:35.156829",
+    "vehicle_speed": 42,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:42:35.162164",
+    "vehicle_speed": 21,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:43:35.161887",
+    "vehicle_speed": 22,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:44:35.161037",
+    "vehicle_speed": 48,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 77,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:45:35.164604",
+    "vehicle_speed": 40,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:46:35.155438",
+    "vehicle_speed": 33,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:47:35.155291",
+    "vehicle_speed": 22,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:48:35.159093",
+    "vehicle_speed": 46,
+    "traffic_density": 21,
+    "congestion_level": "Low",
+    "optimized_signal_time": 47,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:49:35.157203",
+    "vehicle_speed": 48,
+    "traffic_density": 43,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 86,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:50:35.153102",
+    "vehicle_speed": 46,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:51:35.155302",
+    "vehicle_speed": 51,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:52:35.155666",
+    "vehicle_speed": 41,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:53:35.157694",
+    "vehicle_speed": 27,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:04.756144",
+    "vehicle_speed": 38,
+    "traffic_density": 19,
+    "congestion_level": "Low",
+    "optimized_signal_time": 46,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:07.154996",
+    "vehicle_speed": 55,
+    "traffic_density": 22,
+    "congestion_level": "Low",
+    "optimized_signal_time": 45,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:10.154154",
+    "vehicle_speed": 46,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 46,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:13.158225",
+    "vehicle_speed": 45,
+    "traffic_density": 38,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 76,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:16.157298",
+    "vehicle_speed": 38,
+    "traffic_density": 42,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 85,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:19.155736",
+    "vehicle_speed": 36,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:22.156211",
+    "vehicle_speed": 33,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:25.154060",
+    "vehicle_speed": 35,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:28.152275",
+    "vehicle_speed": 56,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:31.159460",
+    "vehicle_speed": 37,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:34.159548",
+    "vehicle_speed": 49,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 67,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:37.152588",
+    "vehicle_speed": 38,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:40.151490",
+    "vehicle_speed": 44,
+    "traffic_density": 47,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 95,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:43.159645",
+    "vehicle_speed": 34,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:46.148933",
+    "vehicle_speed": 45,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 54,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:49.162066",
+    "vehicle_speed": 45,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:52.155449",
+    "vehicle_speed": 36,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:55.157261",
+    "vehicle_speed": 20,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:54:58.155923",
+    "vehicle_speed": 58,
+    "traffic_density": 40,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 80,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:55:01.154797",
+    "vehicle_speed": 71,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 54,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:55:04.162401",
+    "vehicle_speed": 51,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 51,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:55:35.159753",
+    "vehicle_speed": 25,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:56:35.158897",
+    "vehicle_speed": 26,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 49,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:57:35.158060",
+    "vehicle_speed": 28,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:58:35.164010",
+    "vehicle_speed": 36,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-23 23:59:35.156161",
+    "vehicle_speed": 41,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 00:00:35.155715",
+    "vehicle_speed": 31,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 00:01:35.162025",
+    "vehicle_speed": 52,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 53,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 00:02:35.154865",
+    "vehicle_speed": 35,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 53,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 00:03:35.156799",
+    "vehicle_speed": 37,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 71,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 00:04:35.153350",
+    "vehicle_speed": 49,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 00:05:13.184784",
+    "vehicle_speed": 32,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 00:05:40.255490",
+    "vehicle_speed": 36,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 53,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 00:05:43.261852",
+    "vehicle_speed": 47,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:25:00.632281",
+    "vehicle_speed": 55,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:25:03.641851",
+    "vehicle_speed": 46,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:26.647223",
+    "vehicle_speed": 39,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:29.653517",
+    "vehicle_speed": 44,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 73,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:32.648743",
+    "vehicle_speed": 40,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:35.652132",
+    "vehicle_speed": 18,
+    "traffic_density": 40,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 86,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:38.644752",
+    "vehicle_speed": 36,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:41.648849",
+    "vehicle_speed": 39,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 59,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:44.646065",
+    "vehicle_speed": 25,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 53,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:47.645206",
+    "vehicle_speed": 50,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:50.659941",
+    "vehicle_speed": 51,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:53.646032",
+    "vehicle_speed": 44,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 54,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:56.655295",
+    "vehicle_speed": 48,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:26:59.649577",
+    "vehicle_speed": 21,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 47,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:02.654715",
+    "vehicle_speed": 30,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 59,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:05.650760",
+    "vehicle_speed": 20,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 67,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:08.651722",
+    "vehicle_speed": 41,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:11.650255",
+    "vehicle_speed": 50,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:14.648892",
+    "vehicle_speed": 41,
+    "traffic_density": 22,
+    "congestion_level": "Low",
+    "optimized_signal_time": 45,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:17.653022",
+    "vehicle_speed": 49,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 48,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:20.651175",
+    "vehicle_speed": 44,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:23.884512",
+    "vehicle_speed": 45,
+    "traffic_density": 20,
+    "congestion_level": "Low",
+    "optimized_signal_time": 40,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:26.882410",
+    "vehicle_speed": 45,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:29.881306",
+    "vehicle_speed": 24,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 87,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:32.880028",
+    "vehicle_speed": 42,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:35.879363",
+    "vehicle_speed": 27,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 83,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:38.884831",
+    "vehicle_speed": 40,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:41.881401",
+    "vehicle_speed": 32,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:44.882799",
+    "vehicle_speed": 23,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 48,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:47.648908",
+    "vehicle_speed": 43,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 55,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:50.647578",
+    "vehicle_speed": 49,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 50,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:53.884782",
+    "vehicle_speed": 42,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 55,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:56.887295",
+    "vehicle_speed": 45,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:27:59.875120",
+    "vehicle_speed": 31,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:02.880174",
+    "vehicle_speed": 35,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:05.887155",
+    "vehicle_speed": 51,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:08.886737",
+    "vehicle_speed": 31,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 59,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:11.891657",
+    "vehicle_speed": 39,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:14.887020",
+    "vehicle_speed": 34,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:17.881506",
+    "vehicle_speed": 42,
+    "traffic_density": 38,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 77,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:20.891611",
+    "vehicle_speed": 37,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 67,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:23.884387",
+    "vehicle_speed": 45,
+    "traffic_density": 22,
+    "congestion_level": "Low",
+    "optimized_signal_time": 45,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:26.877635",
+    "vehicle_speed": 31,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:29.886560",
+    "vehicle_speed": 41,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:32.878833",
+    "vehicle_speed": 50,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:35.882285",
+    "vehicle_speed": 54,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 49,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:38.884244",
+    "vehicle_speed": 37,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:41.887125",
+    "vehicle_speed": 41,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:44.876385",
+    "vehicle_speed": 31,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 49,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:47.883014",
+    "vehicle_speed": 45,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 55,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:28:50.887734",
+    "vehicle_speed": 37,
+    "traffic_density": 20,
+    "congestion_level": "Low",
+    "optimized_signal_time": 42,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:29:27.875547",
+    "vehicle_speed": 31,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 69,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:29:48.345693",
+    "vehicle_speed": 53,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:29:50.885711",
+    "vehicle_speed": 44,
+    "traffic_density": 25,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:29:53.873823",
+    "vehicle_speed": 46,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 46,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:29:56.890262",
+    "vehicle_speed": 39,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 82,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:29:59.888205",
+    "vehicle_speed": 46,
+    "traffic_density": 38,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 90,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:02.877421",
+    "vehicle_speed": 44,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:05.886716",
+    "vehicle_speed": 47,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:08.875342",
+    "vehicle_speed": 38,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:11.881807",
+    "vehicle_speed": 16,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:14.880430",
+    "vehicle_speed": 37,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 65,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:17.879070",
+    "vehicle_speed": 42,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 48,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:20.878064",
+    "vehicle_speed": 67,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:23.876624",
+    "vehicle_speed": 45,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:26.875205",
+    "vehicle_speed": 37,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 76,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:29.874182",
+    "vehicle_speed": 24,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 48,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:32.872998",
+    "vehicle_speed": 30,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:35.888343",
+    "vehicle_speed": 48,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:38.882235",
+    "vehicle_speed": 25,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:41.888723",
+    "vehicle_speed": 38,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 73,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:44.880973",
+    "vehicle_speed": 38,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:30:47.881905",
+    "vehicle_speed": 66,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:31:27.886855",
+    "vehicle_speed": 26,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:32:27.877591",
+    "vehicle_speed": 51,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:33:27.885145",
+    "vehicle_speed": 32,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 52,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:34:27.887123",
+    "vehicle_speed": 39,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:35:27.883290",
+    "vehicle_speed": 23,
+    "traffic_density": 21,
+    "congestion_level": "Low",
+    "optimized_signal_time": 42,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:36:27.887569",
+    "vehicle_speed": 35,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 67,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:37:27.884879",
+    "vehicle_speed": 47,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:38:27.877582",
+    "vehicle_speed": 49,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 10,
+    "emergency_vehicle": 1,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:39:27.886711",
+    "vehicle_speed": 33,
+    "traffic_density": 42,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 84,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:42:29.301332",
+    "vehicle_speed": 41,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 63,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:43:27.878003",
+    "vehicle_speed": 32,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:44:27.898928",
+    "vehicle_speed": 52,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:45:27.875340",
+    "vehicle_speed": 36,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:46:27.880892",
+    "vehicle_speed": 32,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:47:27.888350",
+    "vehicle_speed": 25,
+    "traffic_density": 43,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 91,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:47:59.739059",
+    "vehicle_speed": 38,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 13:48:02.651202",
+    "vehicle_speed": 40,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 46,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:28.044425",
+    "vehicle_speed": 38,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:31.790571",
+    "vehicle_speed": 40,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:34.962760",
+    "vehicle_speed": 36,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 58,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:37.040820",
+    "vehicle_speed": 35,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 73,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:40.040175",
+    "vehicle_speed": 51,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:43.048625",
+    "vehicle_speed": 32,
+    "traffic_density": 31,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 62,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:46.049447",
+    "vehicle_speed": 33,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:49.054020",
+    "vehicle_speed": 35,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:52.042472",
+    "vehicle_speed": 49,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:55.041619",
+    "vehicle_speed": 36,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:48:58.047469",
+    "vehicle_speed": 32,
+    "traffic_density": 42,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 88,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:01.051033",
+    "vehicle_speed": 56,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:04.052714",
+    "vehicle_speed": 29,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:07.044614",
+    "vehicle_speed": 35,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:10.051913",
+    "vehicle_speed": 21,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 60,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:13.046139",
+    "vehicle_speed": 31,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 56,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:16.052929",
+    "vehicle_speed": 48,
+    "traffic_density": 20,
+    "congestion_level": "Low",
+    "optimized_signal_time": 42,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:19.053547",
+    "vehicle_speed": 18,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 74,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:22.055555",
+    "vehicle_speed": 43,
+    "traffic_density": 29,
+    "congestion_level": "Low",
+    "optimized_signal_time": 64,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:25.046441",
+    "vehicle_speed": 44,
+    "traffic_density": 37,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 75,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:28.041676",
+    "vehicle_speed": 44,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 48,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:31.041682",
+    "vehicle_speed": 48,
+    "traffic_density": 36,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 72,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:34.051714",
+    "vehicle_speed": 73,
+    "traffic_density": 35,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 73,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:37.050040",
+    "vehicle_speed": 31,
+    "traffic_density": 23,
+    "congestion_level": "Low",
+    "optimized_signal_time": 47,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:40.051131",
+    "vehicle_speed": 49,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 55,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:43.050832",
+    "vehicle_speed": 43,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:46.054042",
+    "vehicle_speed": 42,
+    "traffic_density": 34,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:49.045964",
+    "vehicle_speed": 44,
+    "traffic_density": 39,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 81,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:52.052032",
+    "vehicle_speed": 49,
+    "traffic_density": 27,
+    "congestion_level": "Low",
+    "optimized_signal_time": 57,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:55.042203",
+    "vehicle_speed": 42,
+    "traffic_density": 38,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 77,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:49:58.047714",
+    "vehicle_speed": 40,
+    "traffic_density": 21,
+    "congestion_level": "Low",
+    "optimized_signal_time": 49,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:01.043245",
+    "vehicle_speed": 44,
+    "traffic_density": 16,
+    "congestion_level": "Low",
+    "optimized_signal_time": 37,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:04.041469",
+    "vehicle_speed": 32,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:07.040856",
+    "vehicle_speed": 35,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 54,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:10.048270",
+    "vehicle_speed": 31,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 53,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:13.053988",
+    "vehicle_speed": 27,
+    "traffic_density": 30,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 68,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:16.052552",
+    "vehicle_speed": 23,
+    "traffic_density": 32,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 70,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:19.051612",
+    "vehicle_speed": 33,
+    "traffic_density": 26,
+    "congestion_level": "Low",
+    "optimized_signal_time": 53,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:22.044285",
+    "vehicle_speed": 30,
+    "traffic_density": 24,
+    "congestion_level": "Low",
+    "optimized_signal_time": 49,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:25.052539",
+    "vehicle_speed": 34,
+    "traffic_density": 33,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 66,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:28.048770",
+    "vehicle_speed": 39,
+    "traffic_density": 39,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 79,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:31.042357",
+    "vehicle_speed": 35,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 59,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:34.049269",
+    "vehicle_speed": 45,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 88,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:37.050091",
+    "vehicle_speed": 43,
+    "traffic_density": 41,
+    "congestion_level": "Moderate",
+    "optimized_signal_time": 82,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 0,
+    "intersection_id": "A1"
+  },
+  {
+    "timestamp": "2025-04-24 14:50:40.053010",
+    "vehicle_speed": 40,
+    "traffic_density": 28,
+    "congestion_level": "Low",
+    "optimized_signal_time": 61,
+    "emergency_vehicle": 0,
+    "pedestrian_crossing": 1,
+    "intersection_id": "A1"
+  }
+]

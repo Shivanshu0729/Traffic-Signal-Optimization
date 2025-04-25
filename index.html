@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Traffic Management System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    {# Added preconnect for better performance #}
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+</head>
+<body>
+    <div class="container">
+        <h1> SMART TRAFFIC CONTROL </h1>
+        
+        <div class="status-bar">
+            <div>Intersection: <span class="highlight">A1</span></div>
+            <div>Last Updated: <span id="last-updated" class="highlight">--:--:--</span></div>
+            <div>Status: <span id="system-status" class="highlight">Active</span></div>
+        </div>
+        
+        <div class="gauges-container" id="gauges-container">
+            <!-- Gauges will be inserted by JavaScript -->
+        </div>
+        
+        <div class="dashboard-grid">
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-icon">🚗</div>
+                    <h2>Vehicle Speed</h2>
+                </div>
+                <div class="card-value"><span id="speed" class="highlight">--</span> km/h</div>
+                <p>Average speed of vehicles in the intersection</p>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-icon">🚦</div>
+                    <h2>Traffic Density</h2>
+                </div>
+                <div class="card-value"><span id="density" class="highlight">--</span></div>
+                <p>Number of vehicles per lane with congestion level</p>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-icon">🛣️</div>
+                    <h2>Adjacent Road Traffic</h2>
+                </div>
+                <div class="card-value"><span id="road_traffic" class="highlight">--</span></div>
+                <p>Traffic condition on connected roads</p>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-icon">⏳</div>
+                    <h2>Optimized Signal Time</h2>
+                </div>
+                <div class="card-value"><span id="signal_time" class="highlight">--</span> sec</div>
+                <p>Calculated optimal traffic light duration</p>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-icon">📊</div>
+                    <h2>Traffic Prediction</h2>
+                </div>
+                <div class="card-value"><span id="prediction" class="highlight">--</span></div>
+                <p>Predicted vehicle count in next 15 minutes</p>
+            </div>
+            
+            <div class="card" id="emergency-card">
+                <div class="card-header">
+                    <div class="card-icon">⚠️</div>
+                    <h2>Emergency Vehicle</h2>
+                </div>
+                <div class="card-value"><span id="emergency" class="highlight">None</span></div>
+                <p>Emergency vehicle detection status</p>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-icon">🚶</div>
+                    <h2>Pedestrian Crossing</h2>
+                </div>
+                <div class="card-value"><span id="pedestrians" class="highlight">--</span></div>
+                <p>Pedestrian waiting at crosswalk</p>
+            </div>
+        </div>
+        
+        <div class="chart-container">
+            <canvas id="history-chart"></canvas>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
